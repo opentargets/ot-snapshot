@@ -1,0 +1,33 @@
+[submodule "ot-ai-api"]
+	path = ot-ai-api
+	url = git@github.com:opentargets/ot-ai-api.git
+[submodule "ot-ui-apps"]
+	path = ot-ui-apps
+	url = git@github.com:opentargets/ot-ui-apps.git
+[submodule "terraform-google-opentargets-platform"]
+	path = terraform-google-opentargets-platform
+	url = git@github.com:opentargets/terraform-google-opentargets-platform.git
+[submodule "platform-output-support"]
+	path = platform-output-support
+	url = git@github.com:opentargets/platform-output-support.git
+[submodule "platform-api"]
+	path = platform-api
+	url = git@github.com:opentargets/platform-api.git
+[submodule "platform-input-support"]
+	path = platform-input-support
+	url = git@github.com:opentargets/platform-input-support.git
+[submodule "OnToma"]
+	path = OnToma
+	url = git@github.com:opentargets/OnToma.git
+[submodule "curation"]
+	path = curation
+	url = git@github.com:opentargets/curation.git
+[submodule "json_schema"]
+	path = json_schema
+	url = git@github.com:opentargets/json_schema.git
+[submodule "evidence_datasource_parsers"]
+	path = evidence_datasource_parsers
+	url = git@github.com:opentargets/evidence_datasource_parsers.git
+[submodule "platform-etl-backend"]
+	path = platform-etl-backend
+	url = git@github.com:opentargets/platform-etl-backend.git
