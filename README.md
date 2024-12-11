@@ -29,8 +29,11 @@ git submodule update --init --recursive
 - [ot-ui-apps](https://github.com/opentargets/ot-ui-apps) — Open Targets web applications
 - [platform-api](https://github.com/opentargets/platform-api) — Open Targets Platform API
 - [platform-input-support](https://github.com/opentargets/platform-input-support) — Open Targets input data acquisition application
+- [ontoform](https://github.com/opentargets/ontoform) — Open Targets Input data transformations
 - [platform-etl-backend](https://github.com/opentargets/platform-etl-backend) — Open Targets Pipeline ETL process
+- [gentropy](https://github.com/opentargets/gentropy) — Open Targets' genomics toolkit
 - [platform-output-support](https://github.com/opentargets/platform-output-support) — Open Targets output data generation application
+- [orchestration](https://github.com/opentargets/orchestration) — Open Targets data pipelines orchestrator
 - [terraform-google-opentargets](https://github.com/opentargets/terraform-google-opentargets-platform) — Open Targets Infrastructure definition
 
 ## Copyright

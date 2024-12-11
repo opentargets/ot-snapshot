@@ -15,7 +15,7 @@
 	url = git@github.com:opentargets/platform-api.git
 [submodule "platform-input-support"]
 	path = platform-input-support
-	url = git@github.com:opentargets/platform-input-support.git
+	url = git@github.com:javfg/platform-input-support.git
 [submodule "OnToma"]
 	path = OnToma
 	url = git@github.com:opentargets/OnToma.git
@@ -31,3 +31,12 @@
 [submodule "platform-etl-backend"]
 	path = platform-etl-backend
 	url = git@github.com:opentargets/platform-etl-backend.git
+[submodule "gentropy"]
+	path = gentropy
+	url = https://github.com/opentargets/gentropy.git
+[submodule "ontoform"]
+	path = ontoform
+	url = https://github.com/opentargets/ontoform.git
+[submodule "orchestration"]
+	path = orchestration
+	url = https://github.com/opentargets/orchestration.git
