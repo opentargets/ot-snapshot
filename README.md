@@ -24,6 +24,7 @@ git submodule update --init --recursive
 - [curation](https://github.com/opentargets/curation) — Curation repository
 - [evidence_datasource_parsers](https://github.com/opentargets/evidence_datasource_parsers) — Internal evidence generation
 - [json_schema](https://github.com/opentargets/json_schema) — Schemas of the Open Targets Platform data models
+- [ot_croissant](https://github.com/opentargets/ot_croissant) — Croissant File exporter
 - [OnToma](https://github.com/opentargets/OnToma) — Python module which maps the disease or phenotype terms to EFO
 - [ot-ai-api](https://github.com/opentargets/ot-ai-api) — AI API router
 - [ot-ui-apps](https://github.com/opentargets/ot-ui-apps) — Web applications

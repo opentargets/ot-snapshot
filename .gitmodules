@@ -46,3 +46,6 @@
 [submodule "pis"]
 	path = pis
 	url = https://github.com/opentargets/pis.git
+[submodule "ot_croissant"]
+	path = ot_croissant
+	url = git@github.com:/opentargets/ot_croissant
