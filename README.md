@@ -21,20 +21,20 @@ git submodule update --init --recursive
 
 ## Components
 
-- [curation](https://github.com/opentargets/curation) — Open Targets curation repository
-- [evidence_datasource_parsers](https://github.com/opentargets/evidence_datasource_parsers) — Open Targets internal evidence generation
+- [curation](https://github.com/opentargets/curation) — Curation repository
+- [evidence_datasource_parsers](https://github.com/opentargets/evidence_datasource_parsers) — Internal evidence generation
 - [json_schema](https://github.com/opentargets/json_schema) — Schemas of the Open Targets Platform data models
 - [OnToma](https://github.com/opentargets/OnToma) — Python module which maps the disease or phenotype terms to EFO
-- [ot-ai-api](https://github.com/opentargets/ot-ai-api) — Open Targets AI API router
-- [ot-ui-apps](https://github.com/opentargets/ot-ui-apps) — Open Targets web applications
-- [platform-api](https://github.com/opentargets/platform-api) — Open Targets Platform API
-- [platform-input-support](https://github.com/opentargets/platform-input-support) — Open Targets input data acquisition application
-- [ontoform](https://github.com/opentargets/ontoform) — Open Targets Input data transformations
-- [platform-etl-backend](https://github.com/opentargets/platform-etl-backend) — Open Targets Pipeline ETL process
-- [gentropy](https://github.com/opentargets/gentropy) — Open Targets' genomics toolkit
-- [platform-output-support](https://github.com/opentargets/platform-output-support) — Open Targets output data generation application
-- [orchestration](https://github.com/opentargets/orchestration) — Open Targets data pipelines orchestrator
-- [terraform-google-opentargets](https://github.com/opentargets/terraform-google-opentargets-platform) — Open Targets Infrastructure definition
+- [ot-ai-api](https://github.com/opentargets/ot-ai-api) — AI API router
+- [ot-ui-apps](https://github.com/opentargets/ot-ui-apps) — Web applications
+- [platform-api](https://github.com/opentargets/platform-api) — API
+- [pis](https://github.com/opentargets/platform-input-support) — Pipeline Input Stage
+- [pts](https://github.com/opentargets/ontoform) — Pipeline Transformation Stage
+- [platform-etl-backend](https://github.com/opentargets/platform-etl-backend) — Pipeline ETL Stage
+- [gentropy](https://github.com/opentargets/gentropy) — Open Targets' Genomics Toolkit
+- [platform-output-support](https://github.com/opentargets/platform-output-support) — Output data generation application
+- [orchestration](https://github.com/opentargets/orchestration) — Pipeline orchestrator
+- [terraform-google-opentargets-platform](https://github.com/opentargets/terraform-google-opentargets-platform) — Web deployment definition
 
 ## Copyright
 

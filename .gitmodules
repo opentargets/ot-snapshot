@@ -40,3 +40,9 @@
 [submodule "orchestration"]
 	path = orchestration
 	url = https://github.com/opentargets/orchestration.git
+[submodule "pts"]
+	path = pts
+	url = https://github.com/opentargets/pts.git
+[submodule "pis"]
+	path = pis
+	url = https://github.com/opentargets/pis.git
