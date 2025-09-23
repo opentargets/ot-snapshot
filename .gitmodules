@@ -1,36 +1,33 @@
 [submodule "ot-ai-api"]
 	path = ot-ai-api
-	url = git@github.com:opentargets/ot-ai-api.git
+	url = https://github.com/opentargets/ot-ai-api.git
 [submodule "ot-ui-apps"]
 	path = ot-ui-apps
-	url = git@github.com:opentargets/ot-ui-apps.git
-[submodule "terraform-google-opentargets-platform"]
-	path = terraform-google-opentargets-platform
-	url = git@github.com:opentargets/terraform-google-opentargets-platform.git
+	url = https://github.com/opentargets/ot-ui-apps.git
 [submodule "platform-output-support"]
 	path = platform-output-support
-	url = git@github.com:opentargets/platform-output-support.git
+	url = https://github.com/opentargets/platform-output-support.git
 [submodule "platform-api"]
 	path = platform-api
-	url = git@github.com:opentargets/platform-api.git
+	url = https://github.com/opentargets/platform-api.git
 [submodule "platform-input-support"]
 	path = platform-input-support
 	url = git@github.com:javfg/platform-input-support.git
 [submodule "OnToma"]
 	path = OnToma
-	url = git@github.com:opentargets/OnToma.git
+	url = https://github.com/opentargets/OnToma.git
 [submodule "curation"]
 	path = curation
-	url = git@github.com:opentargets/curation.git
+	url = https://github.com/opentargets/curation.git
 [submodule "json_schema"]
 	path = json_schema
-	url = git@github.com:opentargets/json_schema.git
+	url = https://github.com/opentargets/json_schema.git
 [submodule "evidence_datasource_parsers"]
 	path = evidence_datasource_parsers
-	url = git@github.com:opentargets/evidence_datasource_parsers.git
+	url = https://github.com/opentargets/evidence_datasource_parsers.git
 [submodule "platform-etl-backend"]
 	path = platform-etl-backend
-	url = git@github.com:opentargets/platform-etl-backend.git
+	url = https://github.com/opentargets/platform-etl-backend.git
 [submodule "gentropy"]
 	path = gentropy
 	url = https://github.com/opentargets/gentropy.git
@@ -48,4 +45,7 @@
 	url = https://github.com/opentargets/pis.git
 [submodule "ot_croissant"]
 	path = ot_croissant
-	url = git@github.com:/opentargets/ot_croissant
+	url = https://github.com/opentargets/ot_croissant.git
+[submodule "platform-deployment-nextgen"]
+	path = platform-deployment-nextgen
+	url = https://github.com/opentargets/platform-deployment-nextgen.git
