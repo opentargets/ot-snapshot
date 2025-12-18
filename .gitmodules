@@ -22,9 +22,6 @@
 [submodule "json_schema"]
 	path = json_schema
 	url = https://github.com/opentargets/json_schema.git
-[submodule "evidence_datasource_parsers"]
-	path = evidence_datasource_parsers
-	url = https://github.com/opentargets/evidence_datasource_parsers.git
 [submodule "platform-etl-backend"]
 	path = platform-etl-backend
 	url = https://github.com/opentargets/platform-etl-backend.git

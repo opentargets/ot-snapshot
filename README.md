@@ -24,7 +24,6 @@ git submodule update --init --recursive
 
 ### Data generation
 - [curation](https://github.com/opentargets/curation) — Curation repository
-- [evidence_datasource_parsers](https://github.com/opentargets/evidence_datasource_parsers) — Internal evidence generation
 - [OnToma](https://github.com/opentargets/OnToma) — Python module which maps the disease or phenotype terms to EFO
 - [gentropy](https://github.com/opentargets/gentropy) — Open Targets' Genomics Toolkit
 
