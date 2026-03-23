@@ -46,3 +46,6 @@
 [submodule "platform-deployment-nextgen"]
 	path = platform-deployment-nextgen
 	url = https://github.com/opentargets/platform-deployment-nextgen.git
+[submodule "clinical_mining"]
+	path = clinical_mining
+	url = https://github.com/opentargets/clinical_mining.git

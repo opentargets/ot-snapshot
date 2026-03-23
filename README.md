@@ -26,6 +26,7 @@ git submodule update --init --recursive
 - [curation](https://github.com/opentargets/curation) — Curation repository
 - [OnToma](https://github.com/opentargets/OnToma) — Python module which maps the disease or phenotype terms to EFO
 - [gentropy](https://github.com/opentargets/gentropy) — Open Targets' Genomics Toolkit
+- [clinical_mining](https://github.com/opentargets/clinical_mining) — Clinical mining pipeline
 
 ### Pipeline
 - [orchestration](https://github.com/opentargets/orchestration) — Pipeline orchestrator
